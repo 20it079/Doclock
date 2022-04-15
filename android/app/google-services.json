@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1006788626208",
+    "project_id": "doclock-93dda",
+    "storage_bucket": "doclock-93dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006788626208:android:eea058a44a0a09560db945",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006788626208-bv37fqnnvepb5rc060icf8hvhlamgf5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "36c85be6903b10ff05414b1d78815691de541439"
+          }
+        },
+        {
+          "client_id": "1006788626208-ckf2o7ovgtv5rddi192je5g3dcj1i57r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzEK1zR_s-w8ILZXUD1WSUaMcOLjZp6eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006788626208-ckf2o7ovgtv5rddi192je5g3dcj1i57r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
